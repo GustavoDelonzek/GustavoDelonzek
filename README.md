@@ -6,14 +6,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
 <p align="left">📚 Cursando Engenharia de Software.<br>🌱 Atualmente estudando laravel.<br>⚡Em busca de me tornar um desenvolvedor fullstack.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens</h3>
 
 ###
 
