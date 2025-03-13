@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745F5&background=FFFFFF00&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Delonzek+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=2000&color=9745F5&background=FFFFFF00&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Delonzek+)](https://git.io/typing-svg)
 ###
 
 
