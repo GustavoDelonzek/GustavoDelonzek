@@ -47,8 +47,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoDelonzek&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" height="200" alt="GitHub Stats" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDelonzek&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" alt="Top Languages" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoDelonzek&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" height="200" alt="GitHub Stats" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDelonzek&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" height="200" alt="Top Languages" style="display:inline-block;"/>
 </div>
 
 
