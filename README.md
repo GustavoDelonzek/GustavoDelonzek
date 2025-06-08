@@ -9,7 +9,7 @@
 <h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
-<p align="left">📚 Cursando Engenharia de Software.<br>🌱 Atualmente estudando laravel.<br>⚡Em busca de me tornar um desenvolvedor fullstack.</p>
+<p align="left">📚 Cursando Engenharia de Software.<br>🌱 Atualmente estudando laravel.
 
 ###
 
