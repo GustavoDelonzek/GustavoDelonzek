@@ -16,6 +16,6 @@ Desenvolvedor backend focado em APIs assíncronas de alta performance com **Hype
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-### 📫 Contato
+### Contato
 
 [LinkedIn](https://linkedin.com/in/GustavoDelonzek) · [E-mail](mailto:gustavo2016delonzek@gmail.com)
