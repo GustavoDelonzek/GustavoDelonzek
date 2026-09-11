@@ -1,56 +1,21 @@
+<h1 align="left">Gustavo Delonzek</h1>
 
+Desenvolvedor backend focado em APIs assíncronas de alta performance com **Hyperf/Swoole**.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=2000&color=9745F5&background=FFFFFF00&vCenter=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo+Delonzek+)](https://git.io/typing-svg)
-###
+**Backend**
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Hyperf](https://img.shields.io/badge/Hyperf-000000?style=flat-square)
+![Swoole](https://img.shields.io/badge/Swoole-2D9CDB?style=flat-square)
 
-###
+**Dados & Mensageria**
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-###
-<p align="left">📚 Cursando Engenharia de Software.<br>🌱 Atualmente estudando laravel.
+### 📫 Contato
 
-###
-
-<h3 align="left">🛠 Linguagens</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vue logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-</div>
-
-
-###
-
-<h3 align="left">🔥 Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoDelonzek&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800" height="200" alt="GitHub Stats" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDelonzek&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" height="200" alt="Top Languages" style="display:inline-block;"/>
-</div>
-
-
-###
-
+[LinkedIn](https://linkedin.com/in/GustavoDelonzek) · [E-mail](mailto:gustavo2016delonzek@gmail.com)
