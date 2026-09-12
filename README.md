@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=120&section=header&text=Gustavo%20Delonzek&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20PHP%20%7C%20Hyperf%2FSwoole&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000428,50:004E92,100:00C6FF&height=120&section=header&text=Gustavo%20Delonzek&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20PHP%20%7C%20Hyperf%2FSwoole&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=F09819&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+PHP;High-performance+async+APIs;Hyperf+%2F+Swoole+%2F+Laravel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+PHP;High-performance+async+APIs;Hyperf+%2F+Swoole+%2F+Laravel" alt="Typing SVG" />
 
 <br/>
 
@@ -29,12 +29,12 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=GustavoDelonzek&theme=gruvbox&hide_border=true&cache_seconds=86400" />
+<img src="https://streak-stats.demolab.com?user=GustavoDelonzek&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F09819,100:FF512F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:004E92,100:000428&height=100&section=footer" width="100%"/>
 </div>
